@@ -1,4 +1,4 @@
-- Hi, I’m @aleee-chaudhary
+- Hi, I’m Muhammad Ali
 - I’m interested in coding.
 - I want to help others but above all, I want to learn. 
 - I’m currently learning c++ in my university. Hope to learn more.
