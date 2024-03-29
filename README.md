@@ -4,7 +4,7 @@
 - I’m currently learning c++ in my university. Hope to learn more.
 - I’m looking to collaborate on many projects maybe.
 - You can always reach me through my email. I will probably reply in a day. 
-- Email: chaudhary.aleee@gmail.com
+- Email: chaudhari.aleee@gmail.com
 - If you wanna reach my quicker. DM me on instagram. @x.y.aleee
 
 <!---
